@@ -114,8 +114,4 @@ Let’s inspire each other, one line of code at a time.
 **Let’s code some beauty.** 💥
 
 With art & algorithms,  
-<<<<<<< HEAD
 **Reyrove** 💜
-=======
-**Reyrove** 💜
->>>>>>> fe4592c (new prohect added)
