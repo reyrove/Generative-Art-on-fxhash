@@ -90,9 +90,6 @@ const drawCanvas = async () => {
   // Draw snowflakes or circular patterns representing ornaments
   for (let y = margin * 2; y < h - margin * 2; y += w/($fx.rand()*50+50)) {
     drawLine(ctx, y, margin);
-    if ($fx.rand() > 0.7) {
-      drawSnowflake(ctx, y, w);  // Add a snowflake pattern
-    }
   }
 
   if (!thumbnailTaken) {
