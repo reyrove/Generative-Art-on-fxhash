@@ -87,6 +87,8 @@ Want to share your creation with the world? Head to [fxhash](https://www.fxhash.
 
 All projects in this repo are **open source** and made to be shared.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 - ✅ Clone it  
 - ✅ Remix it  
 - ✅ Mint it  
